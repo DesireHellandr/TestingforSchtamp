@@ -28,7 +28,7 @@ class CfgEditorSubcategories
 {
 	class 41_Legion
 	{
-		displayName="41st Legion";
+		displayName="4111st Legion";
 	};
 };
 class CfgWeapons
